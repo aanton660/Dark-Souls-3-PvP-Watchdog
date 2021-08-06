@@ -3,15 +3,15 @@ Dark Souls 3 PvP Watchdog
 
 ## Archive of v1.0.1 as the original has been deleted
 
-Note: this is one subversion shy of the latest (1.0.11). The changelog for 1.0.11 (fixes NOT included in this version) are:
+Note: this is one subversion shy of the last release (1.0.11). The changelog for 1.0.11 (fixes NOT included in this version):
 
 1.0.11
-    Fixed crash when kicking detected cheaters
-    Increased engine memory allocation limits (Some rare crashes were occuring due to dantelion running out of memory)
-    Added experimental summon scaling glitch detection (This should flag any phantoms that are not correctly scaled)
-    Fixed crash due to soul whisps spam
-    Updated version check to allow JP version exe
-    Added more explanatory logging
+ * Fixed crash when kicking detected cheaters
+ *  Increased engine memory allocation limits (Some rare crashes were occuring due to dantelion running out of memory)
+ *  Added experimental summon scaling glitch detection (This should flag any phantoms that are not correctly scaled)
+ *  Fixed crash due to soul whisps spam
+ *  Updated version check to allow JP version exe
+ *  Added more explanatory logging
 
 ## About
 
