@@ -1,6 +1,9 @@
 Dark Souls 3 PvP Watchdog
 =======================
 
+## Archive of v1.0.1 as the original has been deleted
+
+
 ## About
 
 This is a port of the original Dark Souls PvP Watchdog made by /u/eur0pa with additions made by myself (/u/TheSpicyChef) and /u/LukeYui. The aim is to bring something to Dark Souls 3 that will mitigate 90% of what cheaters can do. For the remaining 10%, it will back up your save game every time a session is made so that your progress is protected.
